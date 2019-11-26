@@ -5,7 +5,7 @@ const products = require("./products");
 app.get("/", function(req, res) {
   res.send("Hello World!");
 });
-app.get("/projects/react-tech-store-v2", function(req, res) {
+app.get("/projects/react-tech-store-v2/products", function(req, res) {
   res.json(products);
 });
 
