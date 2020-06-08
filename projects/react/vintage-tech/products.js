@@ -21,11 +21,11 @@ module.exports = [
       provider: "cloudinary",
       provider_metadata: {
         public_id: "vx64ovkpz9nu98tqdtzn",
-        resource_type: "image"
+        resource_type: "image",
       },
       created_at: "2019-11-24T19:40:17.456Z",
-      updated_at: "2019-11-24T19:40:17.456Z"
-    }
+      updated_at: "2019-11-24T19:40:17.456Z",
+    },
   },
   {
     id: 8,
@@ -49,11 +49,11 @@ module.exports = [
       provider: "cloudinary",
       provider_metadata: {
         public_id: "iorxuhfensblqhn6jy5d",
-        resource_type: "image"
+        resource_type: "image",
       },
       created_at: "2019-11-25T22:11:04.020Z",
-      updated_at: "2019-11-25T22:11:04.020Z"
-    }
+      updated_at: "2019-11-25T22:11:04.020Z",
+    },
   },
   {
     id: 9,
@@ -77,11 +77,11 @@ module.exports = [
       provider: "cloudinary",
       provider_metadata: {
         public_id: "ousbxxs7ohhddd3wz18k",
-        resource_type: "image"
+        resource_type: "image",
       },
       created_at: "2019-11-25T22:14:24.585Z",
-      updated_at: "2019-11-25T22:14:24.585Z"
-    }
+      updated_at: "2019-11-25T22:14:24.585Z",
+    },
   },
   {
     id: 10,
@@ -105,11 +105,11 @@ module.exports = [
       provider: "cloudinary",
       provider_metadata: {
         public_id: "t1ubkrtwfilucoo9i4ea",
-        resource_type: "image"
+        resource_type: "image",
       },
       created_at: "2019-11-25T22:14:58.073Z",
-      updated_at: "2019-11-25T22:14:58.073Z"
-    }
+      updated_at: "2019-11-25T22:14:58.073Z",
+    },
   },
   {
     id: 7,
@@ -133,11 +133,11 @@ module.exports = [
       provider: "cloudinary",
       provider_metadata: {
         public_id: "ljh6cayhha9vl0s1d6gm",
-        resource_type: "image"
+        resource_type: "image",
       },
       created_at: "2019-11-25T22:05:05.493Z",
-      updated_at: "2019-11-25T22:05:05.493Z"
-    }
+      updated_at: "2019-11-25T22:05:05.493Z",
+    },
   },
   {
     id: 6,
@@ -161,11 +161,11 @@ module.exports = [
       provider: "cloudinary",
       provider_metadata: {
         public_id: "dzxfyodbsizskpdhvnxg",
-        resource_type: "image"
+        resource_type: "image",
       },
       created_at: "2019-11-24T19:44:47.966Z",
-      updated_at: "2019-11-24T19:44:47.966Z"
-    }
+      updated_at: "2019-11-24T19:44:47.966Z",
+    },
   },
   {
     id: 11,
@@ -189,10 +189,10 @@ module.exports = [
       provider: "cloudinary",
       provider_metadata: {
         public_id: "g1wgilespmtkz3k9lmsu",
-        resource_type: "image"
+        resource_type: "image",
       },
       created_at: "2019-11-25T22:20:34.192Z",
-      updated_at: "2019-11-25T22:20:34.192Z"
-    }
-  }
+      updated_at: "2019-11-25T22:20:34.192Z",
+    },
+  },
 ];
