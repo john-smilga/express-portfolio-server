@@ -12,7 +12,7 @@ app.get("/", function (req, res) {
 app.get("/projects/react-tech-store-v2/products", function (req, res) {
   res.json(products);
 });
-app.get("/projects/tutorial/people", function (req, res) {
+app.get("/javascript/tutorial/people", function (req, res) {
   res.json(people);
 });
 
