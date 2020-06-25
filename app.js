@@ -1,8 +1,15 @@
+const path = require("path");
+// express favicon cors
 const express = require("express");
-const app = express();
+const favicon = require("serve-favicon");
+const cors = require("cors");
+// products people
 const products = require("./projects/react/vintage-tech/products");
 const people = require("./projects/javascript/tutorial/people");
-const cors = require("cors");
+
+const app = express();
+
+app.use(favicon(path.join(__dirname, "favicon.ico")));
 
 app.use(cors());
 
